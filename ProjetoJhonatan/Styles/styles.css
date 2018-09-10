@@ -1,0 +1,12 @@
+img {
+     width: 20%;
+     border: 2px solid black;
+}
+
+h1, h2{
+     color: #706464;
+     font-weight: bolder;
+     text-align: center;
+     font-size: 40pt;
+     font-family: 'Ruslan Display', cursive;
+}
